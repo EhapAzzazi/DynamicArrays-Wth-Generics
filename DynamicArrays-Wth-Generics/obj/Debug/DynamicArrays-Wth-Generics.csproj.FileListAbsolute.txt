@@ -1,0 +1,7 @@
+D:\GitHub\DynamicArrays-Wth-Generics\DynamicArrays-Wth-Generics\DynamicArrays-Wth-Generics\bin\Debug\DynamicArrays-Wth-Generics.exe.config
+D:\GitHub\DynamicArrays-Wth-Generics\DynamicArrays-Wth-Generics\bin\Debug\DynamicArrays-Wth-Generics.exe.config
+D:\GitHub\DynamicArrays-Wth-Generics\DynamicArrays-Wth-Generics\bin\Debug\DynamicArrays-Wth-Generics.exe
+D:\GitHub\DynamicArrays-Wth-Generics\DynamicArrays-Wth-Generics\bin\Debug\DynamicArrays-Wth-Generics.pdb
+D:\GitHub\DynamicArrays-Wth-Generics\DynamicArrays-Wth-Generics\obj\Debug\DynamicArrays-Wth-Generics.csprojResolveAssemblyReference.cache
+D:\GitHub\DynamicArrays-Wth-Generics\DynamicArrays-Wth-Generics\obj\Debug\DynamicArrays-Wth-Generics.exe
+D:\GitHub\DynamicArrays-Wth-Generics\DynamicArrays-Wth-Generics\obj\Debug\DynamicArrays-Wth-Generics.pdb
